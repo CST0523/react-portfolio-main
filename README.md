@@ -4,6 +4,6 @@
   <img
     src="https://github.com/user-attachments/assets/dcd4b1e6-9b5a-4dc4-8c8d-780d6e28b073"
     alt="Siau Teng Portfolio QR Code"
-    style="width: 50%; height: 50%; object-fit: contain;"
+    style="width: 30%; height: 30%; object-fit: contain;"
   />
 </div>
