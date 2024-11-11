@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Public Transport Website",
+    "imageSrc": "projects/web.png",
+    "description": "This project is designed to learn the integration of databases with frontend and backend languages by building a website.",
+    "skills": ["PHP", "HTML", "CSS", "MySQL"],
+    "demo": "https://imailsunwayedu-my.sharepoint.com/:v:/g/personal/22091243_imail_sunway_edu_my/EVujuaqfjVpBtlZDb-QkBLUBED86qBXnPqAhd07d5n3siA?e=CLQuNB",
+    "source": "https://github.com/CST0523/web-project"
+  },
+  {
+    "title": "Digimon Run Run Game",
+    "imageSrc": "projects/Digimon.png",
+    "description": "Developed a coin-collecting game in Java with intuitive controls and scoring systems for an immersive player experience.",
+    "skills": ["Java"],
+    "demo": "https://youtu.be/K3hv2TxTu_0",
+    "source": "https://github.com/CST0523/Digimon-Run-Run--Java-"
+  },
+  {
+    "title": "Footwear E-commerce App",
+    "imageSrc": "projects/shoes.png",
+    "description": "Created an Android app for a footwear e-commerce platform. Used Kotlin for development and Firebase for data storage.",
+    "skills": ["Kotlin", "Firebase"],
+    "demo": "https://youtu.be/xee6XO5WJg4",
+    "source": "https://github.com/CST0523/Footwear-E-commerce"
+  },
+
+  {
+    "title": "GeoQuiz App",
+    "imageSrc": "projects/geoquiz.png",
+    "description": "This project aims to build an interactive Android app that tests geography knowledge.",
+    "skills": ["Kotlin"],
+    "demo": "-",
+    "source": "https://github.com/CST0523/GeoQuiz"
+  },
+
+  {
+    "title": "Covid 19 Data Access",
+    "imageSrc": "projects/covid.png",
+    "description": "A project to understand the Scala language by analyzing COVID-19 datas.",
+    "skills": ["Scala"],
+    "demo": "-",
+    "source": "https://github.com/CST0523/Covid-19-Data"
+  },
+
+  {
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "This is a project made to learn the python languages by building a game.",
+    "skills": ["Python"],
+    "demo": "-",
+    "source": "https://github.com/CST0523/Tic-Tac-Toe"
+  },
+
+  {
+    "title": "Medical App Figma",
+    "imageSrc": "projects/medical.png",
+    "description": "Use Figma to design a prototype for a medical app and gain foundational knowledge in UI/UX.",
+    "skills": ["Figma"],
+    "demo": "https://drive.google.com/file/d/1KDei1DUfSskjPmxFRdX9b8V_ClFUWA1T/view?usp=sharing",
+    "source": "https://www.figma.com/design/fc1NBcHOhB9KEHhr4GJ5Ya/HCI-Assignment?node-id=0-1&t=O8O34bU0pxr22nzD-1"
+  },
+
+  {
+    "title": "ATM Machine Figma",
+    "imageSrc": "projects/atm.png",
+    "description": "Understand the entire software workflow through creating a prototype and drawing use case, class, sequence, and activity diagrams.",
+    "skills": ["Figma","Visual Paradigm"],
+    "demo": "https://drive.google.com/file/d/1G9iZRlRzLTstNTdkZfSiNko8RRq_GW9l/view?usp=sharing",
+    "source": "https://www.figma.com/proto/jp776DlXWUxyW0Wpg6faO6/ATM?node-id=3-68&t=ZMNzvPYFyhfsocJW-1&starting-point-node-id=3%3A68"
+  }
+]
